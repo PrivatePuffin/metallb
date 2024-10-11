@@ -13,7 +13,7 @@ data:
     - ^cbr.*
     - ^dummy.*
     - ^virbr.*
-    - ^lxcbr.*
+    - ^lxc.*
     - ^veth.*
     - ^lo$
     - ^cali.*
